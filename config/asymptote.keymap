@@ -16,6 +16,10 @@
 
 &lt { quick-tap-ms = <300>; };
 
+&soft_off {
+    hold-time-ms = <5000>;
+};
+
 / {
     combos {
         compatible = "zmk,combos";
