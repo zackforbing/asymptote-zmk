@@ -185,7 +185,7 @@
 &kp NUMBER_1  &kp NUMBER_2     &kp NUMBER_3     &kp NUMBER_4   &kp N5                &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS          &kp UNDERSCORE  &kp PLUS             &kp TILDE
 &hm LCTRL N6  &hm LEFT_ALT N7  &hm LGUI N8      &hs LSHFT N9   &kp N0                &kp LEFT_BRACKET      &hm RIGHT_SHIFT RIGHT_BRACKET  &hm RGUI MINUS  &hm RIGHT_ALT EQUAL  &hm RCTRL GRAVE
 &kp KP_PLUS   &kp KP_MINUS     &kp KP_MULTIPLY  &kp KP_DIVIDE  &kp KP_DOT            &kp LEFT_BRACE        &kp RIGHT_BRACE                &kp SEMI        &kp COLON            &kp BACKSLASH
-                                                &lt 6 LS(TAB)              &trans    &lt 6 TAB                                            &trans
+                                                &lt 6 LS(TAB)              &trans    &trans                                               &lt 6 TAB
             >;
         };
 
@@ -203,7 +203,7 @@
 &mt LEFT_SHIFT PAGE_UP  &kp HOME   &mt LS(LALT) UP_ARROW  &kp END    &kp LS(LA(LC(BACKSLASH)))                 &trans      &kp F9        &kp F10      &kp F11          &kp F12
 &mt LALT PAGE_DOWN      &kp LEFT   &kp DOWN               &kp RIGHT  &kp BACKSPACE                             &kp DELETE  &hs RSHFT F5  &hm RGUI F6  &hm LEFT_ALT F7  &hm RCTRL F8
 &kp LG(Z)               &kp LG(X)  &kp LG(C)              &kp LG(V)  &kp LS(LG(K))                             &trans      &kp F1        &kp F2       &kp F3           &kp F4
-                                                          &trans                                &lt 6 LCTRL    &trans                    &lt 6 TAB
+                                                          &trans                                &lt 6 LCTRL    &lt 6 TAB                 &trans
             >;
         };
 
